@@ -1,0 +1,64 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="PersPsy.com" resolutions="1x" timestamp="1563753718880">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3842427029" ref="index"/>
+    <file name="nomq_index.css" crc="352478207" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="istockphoto-628033892-612x612.jpg" crc="257223161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fusion-model-builder.jpg" crc="513845822" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="63a288766d654241b11ca603a50e33ed.gif" crc="3810775224" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени-1.jpg" crc="185745377" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени-2.jpg" crc="4024664625" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="без имени-3.jpg" crc="305129262" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="connect_bg-848x530@2x-u858-fr.png" crc="4190517108" ref="index"/>
+    <file name="linii_setka_temnyy_ten_pyatno_50397_2560x1440.jpg" crc="446804331" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linii_setka_temnyy_ten_pyatno_50397_2560x14401440x810.jpg" crc="493337903" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linii_setka_temnyy_ten_pyatno_50397_2560x14401280x720.jpg" crc="4064872251" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="connect_bg-848x530@2x-u858-fr2.png" crc="293599763" ref="index"/>
+    <file name="без имени-1-u929-fr.jpg" crc="298851073" ref="index"/>
+    <file name="без имени-2-u972-fr.jpg" crc="4140654347" ref="index"/>
+    <file name="без имени-3-u994-fr.jpg" crc="3860179515" ref="index"/>
+    <file name="connect_bg-848x530@2x-u858-fr3.png" crc="449673699" ref="index"/>
+    <file name="домашняя-favicon.ico" crc="61558111" ref="index"/>
+  </folder>
+  <file name="index.html" crc="123084204" seo="true" mt="1563753711292" redirect="true"/>
+</manifest>
